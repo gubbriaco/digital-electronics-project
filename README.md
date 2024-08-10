@@ -2,5 +2,5 @@
 
 **Digital Electronics 2021 projects - Computer Engineering**
 <br><br>
-* N-bit Carry Select Adder design, synthesis and implmentation.
-* Pipeline circuit design, synthesis and implmentation.
+* N-bit Carry Select Adder design, synthesis and implementation.
+* Pipeline circuit design, synthesis and implementation.
